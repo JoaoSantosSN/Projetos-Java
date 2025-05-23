@@ -7,8 +7,8 @@ todos os projeto serao exemplificados aqui neste readme, se quiser acompanhe pel
 
 * [calculadora de area - POO](#calculadora-area)
 
-***
 
+<br>
 <div id="calculadora-area"></div>
 
 ## calculadora de area
