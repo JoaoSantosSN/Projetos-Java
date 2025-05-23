@@ -14,11 +14,11 @@ todos os projeto serao exemplificados aqui neste readme, se quiser acompanhe pel
 ## calculadora de area
 Neste trabalho foi feito uma calculadora de areas, como foi brevemente ensindado na aula, decidi criar um arquivo separado para
 executar os caculos:
-* [Calculos.class](calculadora/Calculos.class)
+* [Calculos.class](calculadora/Calculos.java)
 
 usando essa maneira de organizacao o codigo principal ficou mais simples, onde em vez de fazer tudo em um unico arquivo, eu separei
 e depois chamei as funcoes no arquivo principal:
-* [Cases.class](calculadora/Cases.class)
+* [Cases.class](calculadora/Cases.java)
 
 
 
