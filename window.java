@@ -4,28 +4,18 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
-/**
- *
- * @author Aluno
- */
 public class window {
     public static void main(String[] args) {
         int windowX = 500, windowY = 600;
         int centerX = windowX/2;
        
        
-       
         JFrame window = new JFrame(); //cria a janela
        
-        JButton btn = new JButton("Enviar ->");//cria um botao
-        JLabel label = new JLabel("LOGIN");//cria uma label
-        JLabel userLabel = new JLabel("Usuario:");//cria uma label
-        JLabel passwordLabel = new JLabel("Senha");//cria uma label
+        JButton btn = new JButton("Enviar ->"); //cria um botao
+        JLabel label = new JLabel("LOGIN"); //cria uma label
+        JLabel userLabel = new JLabel("Usuario:"); //cria uma label
+        JLabel passwordLabel = new JLabel("Senha"); //cria uma label
         JTextField nameInput = new JTextField();
         JTextField passwordInput = new JTextField();
        
