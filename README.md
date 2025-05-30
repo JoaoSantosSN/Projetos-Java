@@ -30,6 +30,6 @@ e depois chamei as funcoes no arquivo principal:
 
 ## Janela em java:
 Neste projeto criamos uma tela de login usando JFrame com java, ele nao guarda valores nem retorna alguma coisa por enquanto:
-* [Calculos.java](window.java)
+* [window.java](window.java)
 
 
