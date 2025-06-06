@@ -12,7 +12,7 @@ todos os projeto serao exemplificados aqui neste readme, se quiser acompanhe pel
 <br>
 <div id="calculadora-area"></div>
 
-## calculadora de area
+## Calculadora de áreas
 Neste trabalho foi feito uma calculadora de areas, como foi brevemente ensindado na aula, decidi criar um arquivo separado para
 executar os caculos:
 * [Calculos.java](calculadora/Calculos.java)
